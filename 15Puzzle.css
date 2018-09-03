@@ -1,0 +1,14 @@
+.tile {
+    height: 160px;
+    text-align: center;
+    line-height: 160px;
+    border: 2px #000 solid;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.board {
+    border: 2px #000 solid;
+    margin: 10px;
+}
